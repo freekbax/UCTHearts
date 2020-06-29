@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CloneExtensions" Version="1.4.2" />
+    <PackageReference Include="CsvHelper" Version="15.0.5" />
+  </ItemGroup>
+
+</Project>
